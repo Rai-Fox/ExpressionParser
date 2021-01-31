@@ -10,7 +10,7 @@ Arithmetic expression parser with unlimited number of variables
   `^ (pow)`
   `// (log)`
 # Variables
-The variable name must contain only `Latin letters`, `:`, `_`
+The variable name must contain only `Latin letters`, `:`, `_`, `%`
 # To use:
 ```
 ExpressionParser parser = new ExpressionParser();
